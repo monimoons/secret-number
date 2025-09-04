@@ -1,13 +1,13 @@
 # Lógica de Programação - Oracle ONE + Alura
 
-## 🎲 Jogo do Número Secreto
+## Jogo do Número Secreto
 Este projeto foi desenvolvido como parte do **curso da Alura**, oferecido pelo programa e parceria com a **Oracle Next Education (ONE)**.  
 
 O objetivo do desafio é praticar **JavaScript, e lógica de programação** em um jogo simples e interativo.
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 - Sorteio de um número secreto entre 1 e 10.
 - Feedback para cada tentativa (`maior` ou `menor`).
 - Contagem do número de tentativas realizadas.
@@ -16,15 +16,7 @@ O objetivo do desafio é praticar **JavaScript, e lógica de programação** em 
 
 ---
 
-## 📂 Estrutura do Projeto
-- 📄 index.html  → Onde fica a base do jogo (título, input, botões).  
-- 📄 style.css → Cuida do visual da página.  
-- 📄 script.js → Onde a lógica acontece (sorteio, tentativas, comparações). 
-- 📄 README.md
-
----
-
-## ✨ Como funciona
+##  Como funciona
 1. Você digita um número entre **1 e 10**.  
 2. Clica em **Verificar**.  
 3. Se acertar, aparece uma mensagem de parabéns.  
@@ -32,7 +24,7 @@ O objetivo do desafio é praticar **JavaScript, e lógica de programação** em 
 5. No fim, dá para reiniciar e começar de novo.  
 
 ---
-## 💡 O que aprendi com esse desafio
+##  O que aprendi com esse desafio
 Esse projeto me ajudou a praticar conceitos básicos, mas muito importantes:  
 - Criar e organizar **funções** no JavaScript.  
 - Usar o **DOM** para interagir com a página.  
@@ -43,13 +35,12 @@ Esse projeto me ajudou a praticar conceitos básicos, mas muito importantes:
 Mais do que isso, foi um exercício para ganhar confiança em ver uma ideia simples sair do papel e virar código. 
 
 ---
-## 🛠️ Tecnologias usadas
-- HTML5  
-- CSS3  
-- JavaScript  
+##  Tecnologias usadas
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ---
-## 💭 Observações gerais:
+##  Observações gerais:
 Esse jogo faz parte da minha caminhada no **Oracle Next Education (ONE)**, em parceria com a **Alura**.  
 Estou registrando aqui cada etapa, porque acredito que compartilhar o processo — inclusive os erros e correções — é tão importante quanto mostrar o resultado final.  
 
